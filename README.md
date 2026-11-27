@@ -5,8 +5,8 @@ Sistema de pedidos de comida: los clientes se registran, recorren el catálogo, 
 Trabajo Práctico Integrador · Programación 4 · Tecnicatura Universitaria en Programación a Distancia (UTN).
 
 - **Alumno:** Walter Verdun · legajo 1200 · comisión 9
-- **Repositorio:** ``
-- **Video de demostración:** ``
+- **Repositorio:** `https://github.com/walter404/TPI_Programacion4_Foodstore`
+- **Video de demostración:** `https://drive.google.com/file/d/14O1-ZHCYawJyMIBSI_J4Isw4nRSYgtyG/view?usp=sharing`
 
 ## Qué hay adentro
 
